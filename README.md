@@ -1,4 +1,4 @@
-# Financial Calculators
+# Financial Calculator
 
 This repository contains a Python program called `finance_calculators.py` that provides two financial calculators: an investment calculator and a home loan repayment calculator.
 
